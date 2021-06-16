@@ -1,6 +1,6 @@
 # Project Info
 
-- C# .Net Core CLI
+- C# .Net Core CLI.
 - Access a SMART FHIR Server
 - Use a local web server for redirection
 
